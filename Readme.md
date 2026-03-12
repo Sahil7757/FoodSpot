@@ -130,7 +130,7 @@ backend/
 ### ✅ Frontend & Admin Panel
 
 ```
-git clone https://github.com/ahmed-ashar/FoodSpot
+git clone https://github.com/Sahil7757/FoodSpot
 cd frontend   # or cd admin for admin panel
 npm install
 npm start
@@ -142,7 +142,7 @@ export const backendUrl = 'https://food-spot-five.vercel.app';
 🛠 Backend API Setup
 
 ```
-git clone https://github.com/ahmed-ashar/FoodSpot
+git clone https://github.com/Sahil7757/FoodSpot
 cd backend
 npm install
 ```
